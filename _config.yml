@@ -2,10 +2,10 @@
 # https://github.com/UCSB-AMPLab/telar
 
 # Site Settings
-title: Khipu
-description: "Description here"
-baseurl: "/telar"
-url: "https://ampl.clair.ucsb.edu"
+title: Andean Object Stories
+description: "Researching Stories through THINGS. How can we learn from things? What stories do they tell us about the past? This digital exhibit series tells stories from works in the Andean Region of South America now in UC Santa Barbara's Art, Architecture, and Design Museum."
+baseurl: "/khipu-storytelling"
+url: "https://up-in-the-clouds.github.io"
 author: ""
 email: ""
 telar_theme: "neogranadina" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
